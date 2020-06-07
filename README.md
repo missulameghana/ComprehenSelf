@@ -28,7 +28,7 @@ Chatbots are the state-of-the-art method to talk to people about various issues 
 We understand that mental health is a private discussion and hence we have included login feature in our app. upon logging in, the chatbot talks to the person, knows their problem and gives them a fix or asks them to consult a doctor if it understands that the person is having extreme symptoms.
 ## Demo video
 
-[Watch the video](demo.mp4)
+[Watch the video](https://drive.google.com/file/d/1SdmSSEOsWjOTFJL92mv2I99iibckWwBs/view?usp=sharing)
 
 ## The architecture
 
@@ -41,7 +41,7 @@ We understand that mental health is a private discussion and hence we have inclu
 
 ## Long description
 
-[More detail is available here]()
+[More detail is available here](https://docs.google.com/document/d/1PoCVGEvgoHzIwQkdLsTICwTF99jB2kvCQGrQe19M4Oc/edit?usp=sharing)
 
 ## Project roadmap
 

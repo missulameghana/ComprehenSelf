@@ -1,6 +1,6 @@
 # ComprehenSelf
 
-An app with a chatbot which provides mantal health tips.
+Comprehenself is an app integrated with IBM Watson Assistant chatbot to interact with the user using text-to-speech and speech-to-text features, perform mental healthcare diagnostics, and refer a doctor based on the user's needs.
 
 ## Contents
 
